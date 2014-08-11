@@ -44,7 +44,7 @@ h2 {
 .navbar-brand{
   font-family: "Lato";
   font-size: 1.9em;
-  text-transform: lowercase;
+  text-transform: capitalize;
   font-weight: 100;
   letter-spacing: 0px;
 }
